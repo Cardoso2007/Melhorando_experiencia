@@ -78,7 +78,7 @@ section {
     position: relative;
     padding-top: 1rem;
     margin-top: 10rem;
-    margin-bottom: 0,5rem;
+    margin-bottom: 10rem;
     background: url('img/flor.png') top right no-repeat,
         url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
